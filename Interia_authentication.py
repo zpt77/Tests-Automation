@@ -25,7 +25,7 @@ driver.find_element_by_xpath('//*[@id="mainApp"]/div/div/div/div/div[2]/div/div/
 #REGISTRATION FORM
 
 name = driver.find_element_by_xpath('//form/div[1]/div[1]/input')
-name.send_keys("namexdqv")
+name.send_keys("namexdqvv")
 
 surname = driver.find_element_by_xpath('//form/div[1]/div[2]/input')
 surname.send_keys("surnamexcv")
